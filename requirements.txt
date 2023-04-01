@@ -1,0 +1,17 @@
+pdfplumber
+matplotlib
+streamlit== 1.10.0
+seaborn
+sklearn
+plotly
+folium
+streamlit_folium
+wordcloud
+streamlit-option-menu
+opencv-python-headless==4.5.3.56
+nltk==3.5
+scikit-learn
+streamlit-embedcode
+st-material-table
+pandas
+plost
